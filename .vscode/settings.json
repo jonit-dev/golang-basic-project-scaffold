@@ -1,3 +1,4 @@
 {
-  "workbench.colorTheme": "GitHub Blue"
+  "workbench.colorTheme": "GitHub Blue",
+  "editor.defaultFormatter": "golang.go"
 }
